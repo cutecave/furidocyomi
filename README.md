@@ -3,6 +3,8 @@
 振り仮名をグリフに焼き込んだフォントです。IVS（Ideographic Variation Sequence）で読みを選択します。
 PowerPoint など ruby マークアップ非対応のソフトでも振り仮名を表示できます。
 
+👉 [PowerPoint での使い方](https://furidoc.com/help/ppt-furigana.html)
+
 ## ダウンロード
 
 [Releases](../../releases) から最新の `FuriDocYomi.ttf` をダウンロードできます。
