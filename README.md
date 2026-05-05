@@ -1,6 +1,6 @@
 # FuriDoc Yomi — 振り仮名フォント
 
-[Klee One](https://github.com/fontworks-fonts/Klee)（Fontworks）をベースに、常用漢字 2,136 字＋熟字訓表外漢字 104 字に対して **22,681 通りの振り仮名グリフ** を追加したフォントです。IVS（Ideographic Variation Sequence）で読みを選択し、PowerPoint など ruby マークアップ非対応のソフトでも振り仮名を表示できます。
+[Klee One](https://github.com/fontworks-fonts/Klee)（Fontworks）をベースに、常用漢字 2,136 字＋熟字訓表外漢字 104 字に対して **13,083 通りの振り仮名グリフ** を追加したフォントです。IVS（Ideographic Variation Sequence）で読みを選択し、PowerPoint など ruby マークアップ非対応のソフトでも振り仮名を表示できます。
 
 👉 [PowerPoint での使い方](https://furidoc.com/help/ppt-furigana.html)
 
